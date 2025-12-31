@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <color name="light_1">#D9D9D9</color>
+    <color name="light_2">#a6a6a6</color>
+    <color name="night_1">#262626</color>
+    <color name="night_2">#595959</color>
+
+    <color name="blue">#3956aa</color>
+    <color name="yellow">#dfc540</color>
+
+    <!-- Gboard Style Colors -->
+    <color name="gboard_bg_light">#ECEFF1</color>
+    <color name="gboard_key_light">#FFFFFF</color>
+    <color name="gboard_func_light">#CFD8DC</color>
+    <color name="gboard_func_pressed_light">#B0BEC5</color>
+    
+    <color name="gboard_bg_dark">#263238</color>
+    <color name="gboard_key_dark">#455A64</color>
+    <color name="gboard_func_dark">#37474F</color>
+    <color name="gboard_func_pressed_dark">#263238</color>
+    
+    <color name="gboard_action_blue">#4285F4</color>
+    <color name="gboard_action_blue_pressed">#3367D6</color>
+</resources>

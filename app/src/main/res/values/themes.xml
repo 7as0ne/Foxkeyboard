@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="unicodesinhala" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="accent">@color/blue</item>
+        <item name="foreground">@color/light_1</item>
+        <item name="foreground_2">@color/light_2</item>
+        <item name="isLight">true</item>
+        <item name="border">@color/gboard_bg_light</item>
+        <item name="keyNormal">@color/gboard_bg_light</item>
+        <item name="keyFunction">@color/gboard_key_light</item>
+        <item name="keyAction">@color/blue</item>
+        <item name="keyNormalPressed">@color/night_2</item>
+        <item name="keyFunctionPressed">@color/night_2</item>
+        <item name="keyActionPressed">@color/blue</item>
+        <item name="keyShadowColor">#40000000</item>
+        <item name="keySpecial">@color/gboard_key_light</item>
+        <item name="keySpecialPressed">@color/gboard_func_pressed_light</item>
+    </style>
+
+    <style name="Theme.fox"
+        parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorOnPrimary">@color/light_1</item>
+        <item name="colorSurface">@color/gboard_bg_light</item>
+        <item name="colorOnSurface">@color/night_1</item>
+        <item name="colorOnSurfaceVariant">@color/night_2</item>
+        <item name="preferenceTheme">@style/ThemeOverlay.fox.Preference</item>
+    </style>
+
+    <style name="ThemeOverlay.fox.Preference"
+        parent="PreferenceThemeOverlay">
+        <item name="android:textColorPrimary">@color/night_1</item>
+        <item name="android:textColorSecondary">@color/night_2</item>
+        <item name="colorControlActivated">@color/blue</item>
+    </style>
+
+
+</resources>
