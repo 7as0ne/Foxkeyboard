@@ -23,14 +23,11 @@ android {
     }
     flavorDimensions += "app_id"
     productFlavors {
-        sithakuru {
+        unicode {
             dimension = "app_id"
             applicationId "unicode.sinhala.com"
         }
-        old {
-            dimension = "app_id"
-            applicationId "madx.sinhala.keyboard"
-        }
+
     }
 
     compileOptions {
