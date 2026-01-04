@@ -45,7 +45,21 @@ Available on **[F-Droid](https://f-droid.org/)** for easy, secure installation w
 Download the APK from the [releases page](#) and sideload it.
 
 ---
+---
 
+## Input Method & Privacy Notice
+
+Fox Keyboard is an Android input method (IME).  
+Like all keyboard apps, it must process user input in order to function.
+
+Important privacy guarantees:
+- No internet permission
+- No keystroke logging
+- No analytics or tracking
+- No data is stored or transmitted
+
+All input processing happens locally on the device and only in memory.
+---
 ## Usage
 
 - Switch between layouts (Sinhala, Singlish, English, Emoji) via the **globe key** or **settings menu**.
